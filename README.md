@@ -3,3 +3,5 @@
 https://www.udemy.com/certificate/UC-9fb4ff11-f258-4f7a-9422-9ff3a77c31ed/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
 <h2>Mikrotik Training Program</h2>
 <img width="1002" height="552" alt="image" src="https://github.com/user-attachments/assets/1c9e7232-8ee3-4367-9943-c484d1165e9a" />
+<h2>MTCNA outline</h2>
+📄 [View MTCNA outline](https://github.com/dangvoquoc/Mikrotik-Certified-Network-Associate/blob/main/mtcna_outline_2019181161836.pdf)
